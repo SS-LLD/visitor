@@ -1,5 +1,6 @@
 # visitor
 
+Add new Functionality to Objects without modify existing structure.
 1. This design pattern is to solve Open/Close principle and single responsibility principle.
 2. This design pattern uses double dispatch.
 
