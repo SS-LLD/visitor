@@ -1,6 +1,6 @@
 # visitor
 
-Add new Functionality to Objects without modify existing structure.
+This pattern is ideal when you need to add new functionality to objects without modifying their structure. It's particularly useful in scenarios where the object structure is stable, but new operations are frequently needed.
 1. This design pattern is to solve Open/Close principle and single responsibility principle.
 2. This design pattern uses double dispatch.
 
